@@ -1,0 +1,25 @@
+Content:存储内容资源
+┗包含Animations,Fonts,Materials,Sounds,Spirtes,Tiles
+
+Editor Defalut Resources
+┗包含不知
+
+Gizmos
+┗包含Gizmos使用的图标
+
+Plugins
+┗外部功能库 现包含方法生命周期注解加设置时间 、WebGL
+
+Prefabs
+┗预制体    包含Systems(全局控制组件如:inputSystem控制输入事件的分发)
+	包含User Interface(封装的各种控件如:Pauze Menu 抽取的暂停控件可快速使用)
+	包含World（全局可以复用的perfab如:Player）
+Scenes
+┗场景集合 现包含所有场景(如StartMenu开始场景 需注意Core为所有交互功能的场景通过多场景加载后跳转后可重复使用)
+
+ScriptableObjects
+┗持久化数据模型（包含各种功能 如各种数据的监听绑定实例 各种事件的分发及监听 各种对象的应用实例 声音的集合 仓库的库存 一些常量的数据）
+
+Scripts
+┗所有代码 比较复杂大致 是框架的搭建
+

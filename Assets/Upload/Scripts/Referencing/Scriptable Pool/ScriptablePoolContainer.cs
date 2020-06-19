@@ -151,6 +151,7 @@ public class ScriptablePoolContainer : ScriptableObject
         return createObject;
     }
 
+    //复用
     public GameObject Retrieve(Vector3 _position, Quaternion _rotation)
     {
         // In case we want to reuse(recycle) objects that have been spawned earlier

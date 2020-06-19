@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 [AddComponentMenu("Farming Kit/Entity Components/Combat/Health")]
+//血量 活力值 分发总线
 public class Health : MonoBehaviour
 {
     protected List<IDamageable> iDamageableInterfaces = new List<IDamageable>();

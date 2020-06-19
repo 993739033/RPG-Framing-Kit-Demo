@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd23fd32-7931-4779-90fa-46a37ae80e41" name="Default Changelist" comment="" />
+    <list default="true" id="fd23fd32-7931-4779-90fa-46a37ae80e41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG Framing Kit Demo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG Framing Kit Demo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG Framing Kit Demo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG Framing Kit Demo/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG Framing Kit Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG Framing Kit Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Data/DamageInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Data/DamageInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Health.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Health.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Assets/ScriptableAsset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Assets/ScriptableAsset.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Pool/ScriptablePoolContainer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Pool/ScriptablePoolContainer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Upload/Scripts/Utility/SpriteFader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Upload/Scripts/Utility/SpriteFader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Upload/Scripts/Weather/WeatherEffectRain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Upload/Scripts/Weather/WeatherEffectRain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Upload/Scripts/World/SceneWarper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Upload/Scripts/World/SceneWarper.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A5DB892E-27A8-4FF4-A829-BDEF0A566785/79/f40c7b43/Screen.cs" root0="SKIP_HIGHLIGHTING" />
@@ -110,6 +124,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/DamageVolume.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Data/DamageVolumeConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Data/DamageInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Effect/DamageEffect_HitFlash.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Effect/DamageEffect_BecomeInvulnerable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Effect/DamageEffect_Pushback.cs" root0="FORCE_HIGHLIGHTING" />
@@ -121,6 +136,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Interfaces/IDamageable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Interfaces/IDamageCallback.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Interfaces/IHealable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A5DB892E-27A8-4FF4-A829-BDEF0A566785/fe/5ff322e3/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Interfaces/IKillable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Combat/ScriptableObjects/HitFlashConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Editor/SceneViewCameraRecorder.cs" root0="FORCE_HIGHLIGHTING" />
@@ -134,6 +150,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Saving/SaveGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Saving/ISaveable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Saving/SaveUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C587179F-0CCC-450A-A5AD-2CF0EF523521/24/192007a5/SceneView.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Saving/Editor/SaveableInspector.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/System/SystemTicker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/System/GameSystem.cs" root0="FORCE_HIGHLIGHTING" />
@@ -149,6 +166,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Window1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/TileMap/Smart Tiles/WallTile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/TileMap/Smart Tiles/RailTile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A5DB892E-27A8-4FF4-A829-BDEF0A566785/eb/b3ed5508/WaitUntil.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/TileMap/Smart Tiles/TerrainTile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Utility/HeightBasedSorting.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Utility/UIHoverAction.cs" root0="FORCE_HIGHLIGHTING" />
@@ -175,6 +193,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/TestType.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/76/c48a8751/DateTime.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/AttributeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Pool/ScriptablePoolContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Pool/Poolable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Assets/ScriptableAsset.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Assets/ScriptableTileBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Assets/IReferenceableAsset.cs" root0="FORCE_HIGHLIGHTING" />
@@ -232,6 +252,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Action/Actions/ScriptableTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Entity Components/Character/BodySpriteSwapper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Entity Components/Character/BodySpriteSetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Upload/Prefabs/World/Outdoors/Tree.prefab" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Entity Components/Interfaces/IFreezeMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Entity Components/Interfaces/IMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Upload/Scripts/Entity Components/Interfaces/IAim.cs" root0="FORCE_HIGHLIGHTING" />
@@ -250,13 +271,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Event/Events/Vector2Event.cs" />
-        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Event/ScriptableEventListener.cs" />
-        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Action/Actions/ScriptableTest.cs" />
-        <option value="$PROJECT_DIR$/Assets/Upload/Plugins/Scriptable Object Updater/Attribute/InitializeAssetMethodAttribute.cs" />
-        <option value="$PROJECT_DIR$/Assets/Upload/Plugins/Scriptable Object Updater/Editor/ScriptableObjectInitializer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scenes/TestType.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scenes/AttributeTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Test2.cs" />
         <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Interfaces/IKillable.cs" />
         <option value="$PROJECT_DIR$/Assets/Upload/Scripts/System/GameSystem.cs" />
@@ -300,10 +314,19 @@
         <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Assets/IReferenceableAsset.cs" />
         <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Assets/ScriptableTileBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Weather/RainDrop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Pool/ScriptablePoolContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Weather/WeatherEffectRain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Combat/Data/DamageInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Utility/SpriteFader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/World/WarpLocation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/Referencing/Scriptable Assets/ScriptableAsset.cs" />
+        <option value="$PROJECT_DIR$/Assets/Upload/Scripts/World/SceneWarper.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1c3zGdrXuovb5ovj4UzwgvrVErb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -371,7 +394,8 @@
       <workItem from="1591861338585" duration="1752000" />
       <workItem from="1592292076182" duration="5906000" />
       <workItem from="1592358100165" duration="11163000" />
-      <workItem from="1592459565671" duration="3629000" />
+      <workItem from="1592459565671" duration="4235000" />
+      <workItem from="1592529898345" duration="18034000" />
     </task>
     <servers />
   </component>
@@ -380,6 +404,19 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>

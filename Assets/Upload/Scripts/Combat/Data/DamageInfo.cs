@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
+//发送的伤害实体类
 public struct DamageInfo
 {
     float minHP;

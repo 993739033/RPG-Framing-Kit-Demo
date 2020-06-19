@@ -11,16 +11,20 @@ using UnityEditor;
 public class SceneWarper : MonoBehaviour
 {
     // Scriptable object is to have a unique identification of a location.
-
+    
+    //当前场景信息
     [SerializeField]
     private WarpLocation location;
 
+    //目标场景信息
     [SerializeField]
     private WarpLocation target;
-
+    
+    //场景转换事件
     [SerializeField]
     private WarpEvent warpRequest;
-
+    
+    //转换后的位置信息
     [SerializeField]
     private GameObject spawnLocation;
 
@@ -37,7 +41,7 @@ public class SceneWarper : MonoBehaviour
     private Rigidbody2D rigidBody;
 
 #if UNITY_EDITOR
-
+    //自动生成SceneWarper 及SpawnPosition
     [MenuItem("GameObject/2D Object/Utility/Scene Warper")]
     static void CreateInteractionFieldObject()
     {
@@ -48,13 +52,14 @@ public class SceneWarper : MonoBehaviour
 
     public void OnValidate()
     {
+        //z值置零
         if (this.transform.position.z != 0)
         {
             Vector3 newPosition = this.transform.position;
             newPosition.z = 0;
             this.transform.position = newPosition;
         }
-
+            
         if (spawnLocation == null)
         {
             spawnLocation = new GameObject();
@@ -64,6 +69,7 @@ public class SceneWarper : MonoBehaviour
         }
         else
         {
+            //z值置零
             if (spawnLocation.transform.position.z != 0)
             {
                 Vector3 newPosition = spawnLocation.transform.position;

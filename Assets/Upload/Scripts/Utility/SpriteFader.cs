@@ -1,9 +1,11 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 [AddComponentMenu("Farming Kit/User Interface/Sprite Fader")]
 [RequireComponent(typeof(SpriteRenderer)), DisallowMultipleComponent]
+//alpha 渐变
 public class SpriteFader : MonoBehaviour
 {
     [SerializeField]
@@ -14,8 +16,10 @@ public class SpriteFader : MonoBehaviour
 
     private Coroutine fadeCoroutine;
 
+
     private void OnValidate()
     {
+    
         if (spriteRenderer == null)
         {
             spriteRenderer = GetComponent<SpriteRenderer>();
@@ -32,8 +36,10 @@ public class SpriteFader : MonoBehaviour
         fadeCoroutine = StartCoroutine(TransitionColor(new Color(1, 1, 1, alpha)));
     }
 
+    //instant瞬间
     public void SetAlphaInstant(float alpha)
     {
+        //停到所有当前behavir中的所有协程
         StopAllCoroutines();
         spriteRenderer.color = new Color(1, 1, 1, alpha);
     }

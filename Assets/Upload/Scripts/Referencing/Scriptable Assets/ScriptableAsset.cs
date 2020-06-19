@@ -7,6 +7,7 @@ using System;
 using UnityEditor;
 #endif
 
+//提供获取guid的实现
 [System.Serializable]
 public abstract class ScriptableAsset : ScriptableObject, IReferenceableAsset
 {

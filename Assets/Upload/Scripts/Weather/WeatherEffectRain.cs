@@ -20,7 +20,7 @@ public class WeatherEffectRain : MonoBehaviour
     [SerializeField]
     private bool prewarm;
 
-    private Vector2 screenBounds;
+    private Vector2 screenBounds;//屏幕范围
 
     private void OnEnable()
     {
@@ -46,6 +46,7 @@ public class WeatherEffectRain : MonoBehaviour
 
     public void StartEffect ()
     {
+        //先生成一定数量
         if (prewarm)
         {
             for (int i = 0; i < 10; i++)
@@ -53,7 +54,8 @@ public class WeatherEffectRain : MonoBehaviour
                 SpawnRainDrop();
             }
         }
-
+        
+        //随机时间生成
         StartCoroutine(EffectCoroutine());
     }
 
